@@ -34,11 +34,11 @@ guide product improvement, marketing strategies, and customer engagement.
 ###  Explanatory Data Analysis 
 -   The EDA involves exploring of the Data to answer some questions like:
 -  Analysis Tasks
-  -   What is the average discount percentage by product category?
+  -   What is the gender distribution in the organization? Distil to regions and departments
 
-  -   How many products are listed under each category?
+  -   Show insights on ratings based    gender
 
-  -   What is the total number of reviews per category?
+  -   Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
 
   -   Which products have the highest average ratings?
 
