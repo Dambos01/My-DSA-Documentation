@@ -6,18 +6,16 @@ This marks the beginning of my portfolio-building journey, which I've undertaken
 Through this experience, I've gained valuable skills in various tools, including MS Excel, PowerBi and SQL. Now, I'm excited to apply these skills to build a strong portfolio that showcases my abilities.
 ## Project Topic: Capstone project Amazon Product Review Analysis
 ### Project overview
-I am working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been saddle with analysing product and customer review data to generate insights that can
-guide product improvement, marketing strategies, and customer engagement.
+I am working The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards,revealing other issues like the gender pay gap, amongst other possible issues.The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify key areas within the business that could give rise to issues and address them immediately.Mr Shofoluwe decided to recruit me as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention. “Now, the future of gender equality in Palmoria lies in your hands” – the exact words of Mr Shofoluwe before he handed the data to me.
 
 
 ### Dataset Description 
--    The dataset contains information scraped from Amazon product pages, including:
--    Product details: name, category, price, discount, and ratings
+-    The dataset contains information including:
+-    genders, regions,Bonus rate, departments,departments rating,salary and ratings etc.
 
 -    Customer engagement: user reviews, titles, and content
 
--    Total Records:1,465rows
--    TotalFields: 16 columns
+-    Total Records:946rows
 -    Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 
 
@@ -27,9 +25,9 @@ guide product improvement, marketing strategies, and customer engagement.
     - For Data Cleaning
        - Data manipulation
        - Data munching
- - SQL Server (for querying and Analysis)
+ 
  - Power BI (Forcasting a report)[dowload Here](https://www.microsoft.com/en-gb/power-platform/products/power-bi/).
- - MS power point (for presentation)
+
    
 ###  Explanatory Data Analysis 
 -   The EDA involves exploring of the Data to answer some questions like:
@@ -40,26 +38,16 @@ guide product improvement, marketing strategies, and customer engagement.
 
   -   Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
 
-  -   Which products have the highest average ratings?
+  -   A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
 
-  -   What is the average actual price vs the discounted price by category?
+  -   Does Palmoria meet this requirement?
 
-  -   Which products have the highest number of reviews?
+  -   Show the pay distribution of employees grouped by a band of $10,000. For example:
 
-  -   How many products have a discount of 50% or more?
+  -   How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,etc.?
 
-  -   What is the distribution of product ratings (e.g., how many products are rated 3.0,4.0, etc.)?
+  -   Also visualize this by regions
 
-  -   What is the total potential revenue (actual_price × rating_count) by category?
-
-  -   What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?
-  -   How does the rating relate to the level of discount?
-
-  -   How many products have fewer than 1,000 reviews?
-
-  -   Which categories have products with the highest discounts?
-
-  -   Identify the top 5 products in terms of rating and number of reviews combined
 
 
 
