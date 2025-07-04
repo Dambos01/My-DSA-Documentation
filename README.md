@@ -10,8 +10,16 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
 guide product improvement, marketing strategies, and customer engagement.
 
 
-### Data Source 
--The dataset contains information scraped from Amazon product pages, including:
+### Dataset Description 
+-    The dataset contains information scraped from Amazon product pages, including:
+-    Product details: name, category, price, discount, and ratings
+
+-    Customer engagement: user reviews, titles, and content
+
+-    Total Records:1,465rows
+-    TotalFields: 16 columns
+-    Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
+
 
 ### Tools used
  - Ms Excel for Data cleaning [dowload Here](Http://www.microsoft.com)
@@ -20,7 +28,7 @@ guide product improvement, marketing strategies, and customer engagement.
        - Data manipulation
        - Data munching
  - SQL Server (for querying and Analysis)
- - Power BI (Forcasting a report)
+ - Power BI (Forcasting a report)[dowload Here)(Http;//www.powerbi.com).
  - MS power point (for presentation)
 
 
