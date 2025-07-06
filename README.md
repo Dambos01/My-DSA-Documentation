@@ -1,4 +1,4 @@
-# My-PALMORIA-Documentation
+# My-AMAZON-Documentation
 
 This marks the beginning of my portfolio-building journey, which I've undertaken alongside my Data Analysis class at the Incubator Hub.  
 
@@ -18,7 +18,6 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
 
 -    Total Records:946rows
 -    Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
-
 
 ### Tools used
  - Ms Excel for Data cleaning [dowload Here](Http://www.microsoft.com)
