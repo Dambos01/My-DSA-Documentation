@@ -104,7 +104,25 @@ I am working The Palmoria Group, a manufacturing company based in Nigeria, is em
   -     Values: Combined Score (set to Sum)
   -     Sort Descending
   -     Filter Top 5
+  - 
 
+  ##  RESULT_FINDINGS
+  -    I uncovered that the product with the highest number of reviews is the Amazon basics wireless (high_speed cable)with 91-100% point , this gives us a feedback of user satisfaction.
+  -   we also have the Toys and Games Category with the lowest Revenue, as it's a less demanded and highly dependent on the seasonal and August events.
 
+  ##  RECOMMENDATION 
+
+  -   I recommend strongly that Amazon companies should consider carrying out market surveys,using both primary data and secondary to make decisions that are satisfactory to its customers,Hence, increases the company's revenue.
+  -   we understand that customers and pricing play a large role to translate available products into Revenue.
+
+  ##  LIMITATIONS 
+  -   One of the major limitations is seasonality in amongst many of the company's products
+  -   Poor marketing strategies, and customer engagement.
+  -   Customer Relationship Management Technology is bias and not properly optimized  
+
+##   REFERENCE 
+ -    https://github.com/Dambos01/My-DSA-Documentation/edit/main/README.md
+ -    Amazon
+ -    Idowu oluwagbenga oluwatubosun 
 
  
