@@ -34,7 +34,7 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
 
   -     This is where we included the our data, chart and pivot table for formatting, filtering and columns calculations
   -     Task-by-Task Power Pivot Execution:
-####  Task 1: Average Discount % by Product Category
+###   Task 1: Average Discount % by Product Category
   -     Insert Pivot Table using Data Model
   -     Rows: Main Category
   -     Values: discount_percentage (set to Average)
