@@ -39,7 +39,7 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
   -     Rows: Main Category
   -     Values: discount_percentage (set to Average)
   -     Format values as Percentage
-  -     Task 2: Product Count by Category
+###   Task 2: Product Count by Category
   -     Rows: Main Category
   -     Values: product_name (set to Distinct Count)
 ###   Task 3: Total Reviews per Category
