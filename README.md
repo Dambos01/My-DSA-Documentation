@@ -1,4 +1,4 @@
-# My-DSA-Documentation
+# My-PALMORIA-Documentation
 
 This marks the beginning of my portfolio-building journey, which I've undertaken alongside my Data Analysis class at the Incubator Hub.  
 
