@@ -25,9 +25,8 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
     - For Data Cleaning
        - Data manipulation
        - Data munching
+       - Pivot table 
  
- - Power BI (Forcasting a report)[dowload Here](https://www.microsoft.com/en-gb/power-platform/products/power-bi/).
-
    
 ###  Explanatory Data Analysis 
 -   The EDA involves exploring of the Data to answer some questions like: 
