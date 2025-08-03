@@ -89,7 +89,7 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
   - 
 
   ##  RESULT_FINDINGS
-  -    I uncovered that the product with the highest number of reviews is the Amazon basics wireless (high_speed cable)with 91-100% point , this gives us a feedback of user satisfaction.
+  -    I uncovered that the product with the highest number of reviews is the Amazon basics wireless (high_speed cable)with 853,946 rating point and 91-100% reviews,this gives us a feedback of user satisfaction.
   -   we also have the Toys and Games Category with the lowest Revenue, as it's a less demanded and highly dependent on the seasonal and August events.
 
   ##  RECOMMENDATION 
