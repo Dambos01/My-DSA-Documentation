@@ -26,8 +26,8 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
        - Data manipulation
        - Data munching
        - Data Validation and Exploration
-       - Visualization and Dashboard Creation
-       - Pivot table 
+    -  Pivot table
+    - Visualization and Dashboard Creation
  
    
 ###  Explanatory Data Analysis 
